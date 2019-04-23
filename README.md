@@ -1,5 +1,5 @@
 # Advanced-Machine-Learning
-Class Project code - DSC540
+Class Project Code - DSC540
 
 The objective of this work is to propose different sampling techniques for selecting the representative training data set and to improve the classification accuracy for the minority class. Also I compare the impact of sampling methods in the imbalanced class distribution environment.
 
